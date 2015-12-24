@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /harmony
+baseurl: /index
 
 # Site live URL
 url: http://127.0.0.1:4000
@@ -23,20 +23,20 @@ harmony:
    https://github.com/gayanvirajith/harmony
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Leonardo Ardila Osorio
-    email: leodiblack@outlook.com
-    url: http://leodiblack.github.io
+    name: Gayan Virajith
+    email: gayanvirajith@gmail.com
+    url: http://gayanvirajith.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social: 
-    github: leodiblack
-    twitter: LeoDiBlack
-    facebook: LeoDiBlack
-    gplus: +leodiblack
-    dribble: 
+    github: gayanvirajith
+    twitter: gayanvirajith
+    facebook: gayanvirajith
+    gplus: +GayanVirajith
+    dribble: gayan
     pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
