@@ -561,3 +561,26 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* Added by: LeoDiBlack
+   Date: 27-12-2015
+   https://truongtx.me/2013/05/01/jekyll-read-more-feature-without-any-plugin/ */
+
+.post-content-truncate h1 {
+	font-size: 33.75px;
+	color: #333;
+}
+
+.post-content-truncate h2 {
+	font-size: 26.25px;
+	color: #333;
+}
+
+.post-content-truncate h3 {
+	font-size: 18.75px;
+	color: #333;
+}
+
+.post-content-truncate img {
+	max-width: 400px;
+}
