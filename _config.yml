@@ -2,12 +2,12 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:              http://leodiblack.xyz
 
-# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+# Set to '' in case of hosting on `http://leodiblack.github.io`
 baseurl:          /hydejack
 
-title:            Hydejack
+title:            LeoDiBlack
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
@@ -23,9 +23,9 @@ image:            /hydejack/public/img/nap.jpg
 color:            '#A85641'
 
 author:
-  name:           'Florian Klampfer'
-  twitter:        qwtel
-  github:         qwtel
+  name:           'Leonardo Ardila Osorio'
+  twitter:        leodiblack
+  github:         leodiblack
   photo:          http://qwtel.com/public/img/flo.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
